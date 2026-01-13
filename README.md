@@ -1,4 +1,4 @@
-# Pandar – Crypto-Powered Digital Wallet & Payments Platform (Architecture Case Study)
+# Pandar – Crypto-Powered Digital Wallet & Payments Platform (Architecture Case Study) Overview
 
 ## Overview
 
